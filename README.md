@@ -1,4 +1,3 @@
-# Informe-Lab-7
 # Informe-laboratorio-7
 
 ## Fundamento de circuitos electricos
