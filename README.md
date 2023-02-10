@@ -265,6 +265,7 @@ Los valores eficaces de voltaje o corriente tambien conocidos como rms son los v
 
 # 4. VIDEO
 
+https://www.youtube.com/watch?v=X5CGR1Cdeak
 
 # 5. CONCLUSIONES
 • Una bobina ideal en corriente continua se comporta como un cortocircuito, ya que, al ser la corriente constante, no habría autoinducción. En corriente AC ofrece una resistencia al paso de la corriente eléctrica que recibe el nombre de reactancia inductiva
